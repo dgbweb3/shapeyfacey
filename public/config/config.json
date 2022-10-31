@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x171C9d36db5f0De240c1cf32bc462397e955fcb9",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x171c9d36db5f0de240c1cf32bc462397e955fcb9",
+  "NETWORK": {
+    "NAME": "goerli",
+    "SYMBOL": "GoerliETH",
+    "ID": 5
+  },
+  "NFT_NAME": "shapeyfacey",
+  "SYMBOL": "SHFA",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/shapey-facey",
+  "SHOW_BACKGROUND": true
+}
